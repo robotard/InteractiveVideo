@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Tue May 10 04:26:11 BST 2011 -->
+<data>
+<iMovie>
+
+	<TitleOfFilm>
+		
+	</TitleOfFilm>
+	<NoOfStages>
+		6
+	</NoOfStages>
+
+	<DefaultStagePrefix>
+		stage
+	</DefaultStagePrefix>
+	
+	<DefaultChoicePrefix>
+		choice
+	</DefaultChoicePrefix>
+	
+	<Stages>
+	
+		<initial>
+			<video>
+				videos/1 Waterscene
+			</video>
+		</initial>
+	
+		<stage stage="1">
+			<Choices>
+				<choice choice="1">
+					<video>
+						videos/2a Tree
+					</video>
+					<buttontitle>
+						STAND TALL
+					</buttontitle>
+				</choice>
+				
+				<choice choice="2">
+					<video>
+						videos/2b Tree
+					</video>
+					<buttontitle>
+						GROW STRONG
+					</buttontitle>
+				</choice>
+				
+				<NoOfChoices Choices="2"/>
+			</Choices>
+		</stage>
+		
+		<stage stage="2">
+			<Choices>
+				<choice choice="1">
+					<video>
+						videos/3 Gatehead
+					</video>
+					<buttontitle>
+						
+					</buttontitle>
+				</choice>
+				
+				<NoOfChoices>
+					1
+				</NoOfChoices>
+			</Choices>
+		</stage>
+		
+		<stage stage="3">
+			<Choices>
+				<choice choice="1">
+					<video>
+						videos/4a Seduction
+					</video>
+					<buttontitle>
+						ABSORRB THE ESSENCE
+					</buttontitle>
+				</choice>
+				ESSENCE
+				<choice choice="2">
+					<video>
+						videos/4b Seduction
+					</video>
+					<buttontitle>
+						EMBRACE THE SPIRIT
+					</buttontitle>
+				</choice>
+				
+				<NoOfChoices>
+					2
+				</NoOfChoices>
+			</Choices>
+		</stage>
+		
+		<stage stage="4">
+			<Choices>
+				<choice choice="1">
+					<video>
+						videos/5 Turning Head
+					</video>
+					<buttontitle>
+						
+					</buttontitle>
+				</choice>
+				
+				<NoOfChoices>
+					1
+				</NoOfChoices>
+			</Choices>
+		</stage>
+		
+		<stage stage="5">
+			<Choices>
+				<choice choice="1">
+					<video>
+						videos/6a Sexual Dance
+					</video>
+					<buttontitle>
+						DANCE WITH THE SHADOWS
+					</buttontitle>
+				</choice>
+				
+				<choice choice="2">
+					<video>
+						videos/6b Sexual dance
+					</video>
+					<buttontitle>
+						RISE UP TOWARDS THE SUN
+					</buttontitle>
+				</choice>
+				
+				<NoOfChoices>
+					
+				</NoOfChoices>
+			</Choices>
+		</stage>
+		
+		<stage stage="6">
+			<Choices>
+				<choice choice="1">
+					<video>
+						videos/7 Back to nature
+					</video>
+					<buttontitle>
+						
+					</buttontitle>
+				</choice>
+				
+				<NoOfChoices>
+					1
+				</NoOfChoices>
+			</Choices>
+		</stage>
+	
+	</Stages>
+	
+	<Qualities>
+		<High>
+			<label>
+				1080P
+			</label>
+		</High>
+		
+		<Medium>
+			<label>
+				720P
+			</label>
+		</Medium>
+		
+		<Low>
+			<label>
+				480P
+			</label>
+		</Low>
+		
+		<fileextension>
+			.flv
+		</fileextension>
+		
+		<defaultquality>
+			720P
+		</defaultquality>
+		defaultquality
+		<qualities values="High, Medium, Low"/>
+	</Qualities>
+	
+</iMovie>
+</data>
